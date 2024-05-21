@@ -9,4 +9,7 @@ def my_function():
 
 
 for i in range(21):
+
+    print(i + 10)
+    print('hey here are some numbers')
     print(i)
